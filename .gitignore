@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+llmown/
 
 # Spyder project settings
 .spyderproject
