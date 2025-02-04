@@ -1,4 +1,4 @@
-# exec: python.exe website_summary.py
+# exec: python.exe 002_website_summary (Ollama local).py
 # imports
 
 import requests

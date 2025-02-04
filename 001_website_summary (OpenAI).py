@@ -1,4 +1,4 @@
-# exec: python.exe website_summary.py
+# exec: python.exe 001_website_summary (OpenAI).py
 # imports
 
 import os
